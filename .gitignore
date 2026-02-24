@@ -1,0 +1,5 @@
+.env
+.DS_Store
+docs/
+chroma_db/
+chroma_langchain_db/
